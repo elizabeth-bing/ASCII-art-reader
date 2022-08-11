@@ -40,5 +40,6 @@
   "dependencies": {
     "nodeman": "^1.1.2",
     "nodemon": "^2.0.19"
-  }
+  },
+  "keywords": []
 }
